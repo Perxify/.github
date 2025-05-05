@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://perxify.com/logo.svg" alt="Perxify" width="120"/><br>
+  <img src="https://office.perxify.com/perxify_logo.jpg" alt="Perxify" width="120"/><br>
   Perxify – Commerce Reinvented
 </h1>
 
