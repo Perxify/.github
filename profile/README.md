@@ -57,9 +57,9 @@ We are a group of builders and visionaries reshaping commerce.
 
 ### 🔧 Tech Stack
 
-- Backend: Node.js, PostgreSQL, OpenAPI 3.1
+- Backend: Node.js, MySQL/PostgreSQL, OpenAPI 3.1
 - Auth: JWT, OAuth2 (Google, Facebook), Web3 Wallets (Dynamic)
-- Frontend: Web UI (Admin + Customer portals), soon Mobile
+- Frontend: Web UI (Admin + Customer portals), React, soon Mobile
 - AI: Reward Automation, Pricing, Smart Suggestions
 - Web3: NFT loyalty tiers & vouchers, on-chain metadata, EVM compatibility
 
