@@ -92,4 +92,4 @@ Perxify is an open, modular platform and welcomes collaboration with developers,
 
 ---
 
-🔐 **Built by [Alder Solutions](https://aldersolutions.com) — for brands who want full control and future-proof tech.**
+🔐 **Built by [Alder Solutions](https://aldersolutions.xyz) — for brands who want full control and future-proof tech.**
