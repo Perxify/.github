@@ -1,10 +1,10 @@
 <h1 align="center">
   <img src="https://office.perxify.com/perxify_logo.jpg" alt="Perxify" width="120"/><br>
-  Perxify – Commerce Reinvented
+  <strong>Perxify – Commerce Reinvented</strong>
 </h1>
 
 <p align="center">
-  <strong>AI-powered Loyalty, Community & E-commerce Platform</strong><br>
+  <em>AI-powered Loyalty, Community & E-commerce Platform</em><br>
   Build meaningful customer relationships, launch branded marketplaces, and scale with intelligence.
 </p>
 
@@ -12,84 +12,86 @@
 
 ### 🚀 About Us
 
-**Perxify** is building the future of commerce – a modular Commerce Cloud platform with a built-in **AI Marketing Assistant** to help brands enrich transaction data, launch gamified loyalty programs, and create thriving communities.
+**Perxify** is building the future of commerce: a modular Commerce Cloud platform powered by an AI Marketing Assistant that helps brands enrich transaction data, gamify loyalty, and create community-driven growth.
 
-- **Launch your store and loyalty program in a day**
-- **Track customer journeys and loyalty actions on-chain**
-- **Own your data. Brand-first, white-label approach**
-- **Integrated AI insights & automation**
+- 🛒 Launch your store and loyalty program in a day  
+- 🔗 Track customer journeys and loyalty actions on-chain  
+- 🧰 Brand-first, white-label approach with full data ownership  
+- 🧠 AI-powered analytics and automation baked in
 
-🛠️ MVP Dashboard: [https://office.perxify.com/admin/dashboard](https://office.perxify.com/admin/dashboard)  
-👋 Join Early: [https://join.perxify.com](https://join.perxify.com)  
-🧠 Read our Blog: [https://blog.perxify.com](https://blog.perxify.com)
+🔐 MVP Dashboard: [office.perxify.com/admin/dashboard](https://office.perxify.com/admin/dashboard)  
+🎉 Join Early: [join.perxify.com](https://join.perxify.com)  
+🧠 Read Our Blog: [blog.perxify.com](https://blog.perxify.com)
 
 ---
 
 ### 🧠 Our Vision
 
-Perxify is **designed for change**. Customers behave differently. Brands must adapt. We help you stay ahead with tools to:
+We believe in helping innovative brands thrive in an ever-changing world.
 
-- Build NFT-powered loyalty memberships and vouchers
-- Automate reward flows with smart AI triggers
-- Resell, gift, or trade products with verified ownership
-- Get real-time suggestions from our AI based on user activity
+With Perxify, you can:
+- 🎟️ Create NFT-based loyalty memberships and digital vouchers  
+- ⚙️ Automate reward flows with smart, AI-driven triggers  
+- 🔄 Enable reselling, gifting, and trading of verified products  
+- 📈 Receive real-time AI suggestions based on user behavior and market data
 
 ---
 
 ### 👥 Core Team
 
-We are a group of builders and visionaries reshaping commerce.
+We’re a driven crew of technologists and entrepreneurs passionate about reinventing digital commerce.
 
 **Founders**  
-🧠 [Sander Gansen](https://www.linkedin.com/in/sandergansen/) – CEO  
-🛠️ [Alvar Laigna](https://github.com/alvarlaigna) – CTO
+- 🧠 [Sander Gansen](https://www.linkedin.com/in/sandergansen/) – CEO  
+- 🛠️ [Alvar Laigna](https://github.com/alvarlaigna) – CTO
 
 **Core Developers**  
-🧙‍♂️ Daniel Gansen  
-🧑‍🚀 Glen Kink
+- 🧙‍♂️ Daniel Gansen  
+- 🚀 Glen Kink
 
 **Key Contributors**  
-✨ Anna Mugu  
-🧠 Elmar Laigna  
-🔥 Jaan Viru
+- ✨ Anna Mugu  
+- 🧠 Elmar Laigna  
+- 🔥 Jaan Viru
 
 ---
 
-### 🔧 Tech Stack
+### 🛠️ Tech Stack
 
-- Backend: Node.js, MySQL/PostgreSQL, OpenAPI 3.1
-- Auth: JWT, OAuth2 (Google, Facebook), Web3 Wallets (Dynamic)
-- Frontend: Web UI (Admin + Customer portals), React, soon Mobile
-- AI: Reward Automation, Pricing, Smart Suggestions
-- Web3: NFT loyalty tiers & vouchers, on-chain metadata, EVM compatibility
+- **Backend**: Node.js, MySQL/PostgreSQL, OpenAPI 3.1  
+- **Frontend**: React-based Admin & Customer portals, mobile apps coming soon  
+- **Auth**: JWT, OAuth2 (Google, Facebook), Web3 Wallets (via Dynamic)  
+- **AI**: Reward Automation, Pricing Suggestions, Personalization Agents  
+- **Web3**: On-chain loyalty tiers, NFTs, verifiable vouchers, EVM-compatible
 
 ---
 
-### 📦 Main Features
+### 📦 Key Features
 
-- 🛍️ White-label e-commerce site & marketplace
-- 🎁 NFT-based memberships, loyalty levels, vouchers
-- 🤖 AI marketing agent & reward flow automation
-- 🧾 Smart order system & multi-vendor support
-- 📊 Admin dashboard with analytics, CRM & product management
-- 🔗 Web3-ready with wallet auth and on-chain assets
+- 🛍️ White-label e-commerce & marketplaces  
+- 🎁 NFT-powered memberships & loyalty levels  
+- 🤖 AI-based insights and marketing automation  
+- 🧾 Multi-vendor checkout and smart order flows  
+- 📊 Admin CRM with powerful analytics  
+- 🔗 Web3-ready: wallet auth, asset traceability
 
 ---
 
 ### 📢 Connect With Us
 
-- 🐦 [Twitter/X](https://x.com/Perxifycom)
-- 💼 [LinkedIn](https://www.linkedin.com/company/perxify)
-- 🧠 [Blog](https://blog.perxify.com)
+- 🐦 Twitter/X: [@Perxifycom](https://x.com/Perxifycom)  
+- 💼 LinkedIn: [Perxify](https://www.linkedin.com/company/perxify)  
+- 📬 Blog: [blog.perxify.com](https://blog.perxify.com)
 
 ---
 
 ### 🤝 Work With Us
 
-Perxify is an open, modular platform and welcomes collaboration with developers, startups, and visionary brands.
+We're building Perxify to be an open, developer-friendly platform.  
+Whether you're a startup, agency, or curious contributor — we’d love to connect.
 
-> Interested in contributing or building on top of Perxify? Drop us a line at [hello@perxify.com](mailto:hello@perxify.com)
+> 📩 Drop us a line: [hello@perxify.com](mailto:hello@perxify.com)
 
 ---
 
-🔐 **Built by [Alder Solutions](https://aldersolutions.xyz) — for brands who want full control and future-proof tech.**
+🔐 Built with ❤️ by [Alder Solutions](https://aldersolutions.xyz) — empowering forward-thinking brands with the tools of tomorrow.
