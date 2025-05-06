@@ -74,17 +74,17 @@ We build with cutting-edge, scalable technologies:
 We're a passionate crew of technologists, strategists, and entrepreneurs dedicated to reinventing digital commerce.
 
 **Founding Team**
-- 💡 [Sander Gansen](https://www.linkedin.com/in/sandergansen/) – CEO & Visionary
-- 👨‍💻 [Alvar Laigna](https://github.com/alvarlaigna) – CTO & Lead Architect
+- 💡 [Sander Gansen](https://www.linkedin.com/in/sandergansen/) – CEO
+- 👨‍💻 [Alvar Laigna](https://github.com/alvarlaigna) – CTO
 
 **Core Engineering**
-- 🧙‍♂️ Daniel Gansen – Full-Stack Sorcerer
-- 🚀 Glen Kink – Frontend Virtuoso
+- 🧙‍♂️ Daniel Gansen – Full-Stack
+- 🚀 Glen Kink – Full-Stack
 
 **Key Innovators & Advisors**
-- ✨ Anna Mugu – Growth & Community
-- 🧠 Elmar Laigna – AI & Data Science
-- 🔥 Jaan Viru – Strategic Partnerships
+- ✨ Anna Mugu – Full-Stack
+- 🧠 Elmar Laigna – Full-Stack
+- 🔥 Jaan Viru – Full-Stack
 
 ---
 
@@ -93,7 +93,6 @@ We're a passionate crew of technologists, strategists, and entrepreneurs dedicat
 - **X/Twitter:** [@Perxifycom](https://x.com/Perxifycom) 🚀
 - **LinkedIn:** [Perxify](https://www.linkedin.com/company/perxify) 💼
 - **Blog:** [blog.perxify.com](https://blog.perxify.com) 📖
-- **Discord:** `Coming Soon! Join our community.` 💬 (Update when ready)
 
 ---
 
