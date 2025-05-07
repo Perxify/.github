@@ -81,7 +81,7 @@ We're a passionate crew of technologists, strategists, and entrepreneurs dedicat
 - 🧙‍♂️ Daniel Gansen – Full-Stack
 - 🚀 Glen Kink – Full-Stack
 
-**Key Innovators & Advisors**
+**Engineering**
 - ✨ Anna Mugu – Full-Stack
 - 🧠 Elmar Laigna – Full-Stack
 - 🔥 Jaan Viru – Full-Stack
