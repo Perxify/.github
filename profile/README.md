@@ -13,8 +13,8 @@
 
 <p align="center">
   <a href="https://office.perxify.com/admin/dashboard"><img src="https://img.shields.io/badge/MVP%20Dashboard-Live-brightgreen?style=for-the-badge" alt="MVP Dashboard"></a>
-  <a href="https://join.perxify.com"><img src="https://img.shields.io/badge/Early%20Access-Join%20Now-blueviolet?style=for-the-badge" alt="Join Early"></a>
-  <a href="https://blog.perxify.com"><img src="https://img.shields.io/badge/Our%20Insights-Blog-informational?style=for-the-badge" alt="Read Our Blog"></a>
+  <a href="https://perxify.com"><img src="https://img.shields.io/badge/Early%20Access-Join%20Now-blueviolet?style=for-the-badge" alt="Join Early"></a>
+  <a href="https://perxify.com/blog"><img src="https://img.shields.io/badge/Our%20Insights-Blog-informational?style=for-the-badge" alt="Read Our Blog"></a>
 </p>
 
 ---
@@ -92,7 +92,7 @@ We're a passionate crew of technologists, strategists, and entrepreneurs dedicat
 
 - **X/Twitter:** [@Perxifycom](https://x.com/Perxifycom) 🚀
 - **LinkedIn:** [Perxify](https://www.linkedin.com/company/perxify) 💼
-- **Blog:** [blog.perxify.com](https://blog.perxify.com) 📖
+- **Blog:** [perxify.com/blog](https://perxify.com/blog) 📖
 
 ---
 
